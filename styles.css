@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.name {
+  font-family: 'Pacifico', monospace, sans-serif;
+  color:rgb(56, 175, 155);
+  font-size: 74px;
+}
+
+.programmer, .greeting, .skill-title, .big-brain-title, .contact-title, .contact-subtitle, .link-text {
+  color:rgb(26, 145, 129);
+}
+
+.display {
+  background-color: rgba(19, 230, 212, 0.226)
+}
+
+.footer {
+  background-color: #66BFBF;
+}
+
+.greeting-desc, .big-brain-desc, .contact-subtitle, .contact-desc {
+  max-width: 40ch;
+}
+
+.contact-desc {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.horiz {
+  border: 6px dotted black;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.legal {
+  color: white;
+}
